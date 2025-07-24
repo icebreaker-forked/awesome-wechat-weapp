@@ -68,6 +68,7 @@
 - [postcss-pxtorpx-pro](https://github.com/Genuifx/postcss-pxtorpx-pro) - postcss px 转 rpx 插件
 - [px2rpx](https://github.com/allanguys/px2rpx) - Px 转 Rpx 在线工具
 - [wxml-parser](https://github.com/seanlong/wxml-parser) -  JavaScript WXML parser
+- [@wxml/parser, @wxml/traverse, @wxml/generator](https://github.com/wxmlfile) - WXML babel like AST interpreter
 - [weappx](https://github.com/tolerance-go/weappx) - 基于 redux 的数据层管理框架
 - [weapp-start](https://github.com/tolerance-go/weapp-start) - 基于插件机制的开发脚手架，改善原生小程序开发体验
 - [Egret Wing](http://developer.egret.com/cn/github/egret-docs/Wing/update/update320/index.html) - 支持微信小程序实时预览的 IDE
@@ -86,6 +87,7 @@
 - [we-mobx](https://github.com/cicec/we-mobx) - 在微信小程序中使用 MobX
 - [weconsole](https://github.com/weimobGroup/WeConsole) - 功能全面、界面与体验对标 Chrome devtools 的可定制化的小程序开发调试面板
 - [wechat-web-devtools-linux](https://github.com/msojocs/wechat-web-devtools-linux) - Linux 下微信开发者工具
+- [rubic](https://github.com/jaskang/rubic) - 基于 Vue3 的小程序开发框架，在小程序中使用 Composition API
 
 [↑ 返回目录 ↑](#目录)
 
@@ -117,6 +119,7 @@
 - [wux-weapp ★4.2k+](https://github.com/wux-weapp/wux-weapp) - 一套组件化、可复用、易扩展的微信小程序 UI 组件库
 - [wx-charts ★4.1k+](https://github.com/xiaolin3303/wx-charts) - 微信小程序图表 charts 组件
 - [Lin UI ★2k+](https://github.com/TaleLin/lin-ui) - 一套设计优良、基于原生微信小程序语法的 UI 组件库
+- [tdesign-miniprogram ★1.3k+](https://github.com/Tencent/tdesign-miniprogram) - TDesign 适配微信小程序的组件库
 - [wemark ★1.100+](https://github.com/TooBug/wemark) - 微信小程序 Markdown 渲染库
 - [image-cropper ★900+](https://github.com/1977474741/image-cropper) -  💯微信小程序图片裁剪组件
 - [wxapp-img-loader ★400+](https://github.com/o2team/wxapp-img-loader) - 微信小程序图片预加载组件
@@ -142,7 +145,7 @@
 - [wepy-com-charts](https://github.com/CalvinHong/wepy-com-charts) - 微信小程序 wepy 图表控件
 - [wxapp-lock](https://github.com/demi520/wxapp-lock) - 微信小程序手势解锁
 - [mini-gesture-lock](https://github.com/geminate/mini-gesture-lock) - 微信小程序手势解锁(无Android Canvas卡顿问题)
-- [weapp.socket.io](https://github.com/weapp-socketio/weapp.socket.io) - socket.io 风格的 websocket 类库
+- [weapp.socket.io ★500+](https://github.com/weapp-socketio/weapp.socket.io) - socket.io 风格的 websocket 类库
 - [weapp-polyfill](https://github.com/leancloud/weapp-polyfill) - [w3c 标准 API polyfill
 - [wx-promise-pro ★666+](https://github.com/youngjuning/wx-promise-pro) - 微信小程序 Promise 库
 - [wxMD5](https://github.com/youngjuning/wxMD5) - 微信小程序 MD5 库
@@ -186,6 +189,11 @@
 - [deepkolos/three-platformize-demo-wechat](https://github.com/deepkolos/three-platformize-demo-wechat) - 微信小程序 THREE 包含16个loader测试demo
 - [deepkolos/wxmp-tensorflow](https://github.com/deepkolos/wxmp-tensorflow) - 微信小程序下运行最新TensorFlowJS的解决方案 
 - [xtanyu/parsing-mini](https://github.com/xtanyu/parsing-mini) - 短视频去水印小程序（[含Java版本服务端](https://github.com/xtanyu/ToolApi)）
+- [realyao/Focus-clock ★100+](https://github.com/realyao/WXminiprogram-Focus-clock) - ✅时间管理小程序：专注时钟（集成时间管理、目标计划、Todo待办、白噪声。易部署 适合新手学习入门）
+- [mark420524/photo](https://github.com/mark420524/photo) - 证件照小程序
+- [xtanyu/bookkeeping](https://github.com/xtanyu/bookkeeping) - 打牌记账
+- [jinganix/guess](https://github.com/jinganix/guess) - 猜我是谁小程序，包含前后端代码
+- [WYQilin/aigallery](https://github.com/WYQilin/aigallery) - 🔥「奇绘图册」AI绘画、摄影作品管理小程序（[含服务端](https://github.com/WYQilin/aigallery-server)，支持一键部署）
 
 ### 数据接口有问题
 
@@ -285,6 +293,8 @@
 - [terryso/super9](https://github.com/terryso/super9) - 🔥抖音一键去水印小程序: Taro + 微信云开发
 - [redhat123456/upPhysicalExercise](https://github.com/redhat123456/upPhysicalExercise) - 🚀up体能训练小程序(健身训练、观看视频、制定计划于一身的综合小程序)
 - [redhat123456/Tanger_query](https://github.com/redhat123456/Tanger_query) - 🌈查询小程序(查询各种各样的信息的小程序)
-- [realyao/Focus-clock](https://github.com/realyao/WXminiprogram-Focus-clock) - ✅时间管理小程序：专注时钟（集成时间管理、目标计划、Todo待办、白噪声。易部署 适合新手学习入门）
 - [mark420524/question](https://github.com/mark420524/question) - 学习答题小程序，诗词歌赋小工具-早晚答小程序
+- [Chadwuo/li-ji-weapp](https://github.com/Chadwuo/li-ji-weapp) - 🔥记录和管理人情来往，给你方便快捷的人情记账体验！专业又懂你的人情记账软件，共享记账，全家人共享账本
+- [mark420524/guess](https://github.com/mark420524/guess) - 看图猜成语微信小程序
+
 [↑ 返回目录 ↑](#目录)
